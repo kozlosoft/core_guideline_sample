@@ -1,0 +1,5 @@
+[requires]
+gsl/0.0.1@KindDragon/stable
+
+[generators]
+cmake
